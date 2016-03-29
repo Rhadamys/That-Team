@@ -25,4 +25,7 @@ Puedes obtener información básica y estadísticas de campeones y hechizos, pre
 
 *** Para más información y descargar el APK, visita http://rhadamysdev.wix.com/that-team
 
+##Aviso legal
+That Team no recibe la aprobación de Riot Games y no refleja los puntos de vista u opiniones de Riot Games o cualquier persona involucrada oficialmente en la producción o la gestión de League of Legends. League of Legends y Riot Games son marcas comerciales o marcas comerciales registradas de Riot Games, Inc. League of Legends © Riot Games, Inc.
+
 
