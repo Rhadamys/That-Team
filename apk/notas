@@ -1,4 +1,5 @@
-{nombre="1.0.3",codigo=103}
+{nombre="1.0.4",codigo=104}
 
+{notas104:["Se han actualizado los iconos de campeones","Se ha corregido un error que provocaba el constante anuncio de una nueva versión al iniciar la aplicación"
 {notas103:["Ahora la aplicación avisa acerca de nuevas versiones","Se corrigieron pequeños detalles de la interfaz gráfica"]}
 {notas102:["Se ha agregado el soporte para servidor de Japón"]}
